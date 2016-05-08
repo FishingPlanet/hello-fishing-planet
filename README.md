@@ -1,7 +1,7 @@
 # hello-fishing-planet
 Testing Code Repository
 
-Just a test Solution for Pulling down (downloading) and Commiting the code.
+Just a test Solution for Pulling and Commiting the code.
 
 Download the GitHub App for Windows from here: https://desktop.github.com/
 
