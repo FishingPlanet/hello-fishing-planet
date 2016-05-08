@@ -1,0 +1,4 @@
+c:\users\dev-pc\documents\visual studio 2010\Projects\HelloFishingPlanet\HelloFishingPlanet\bin\Debug\HelloFishingPlanet.exe
+c:\users\dev-pc\documents\visual studio 2010\Projects\HelloFishingPlanet\HelloFishingPlanet\bin\Debug\HelloFishingPlanet.pdb
+c:\users\dev-pc\documents\visual studio 2010\Projects\HelloFishingPlanet\HelloFishingPlanet\obj\x86\Debug\HelloFishingPlanet.exe
+c:\users\dev-pc\documents\visual studio 2010\Projects\HelloFishingPlanet\HelloFishingPlanet\obj\x86\Debug\HelloFishingPlanet.pdb
